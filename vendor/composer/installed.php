@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'pph21/calculator',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '7b8261a977e4335f9697794ddc1d9d113afa44f7',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'pph21/calculator' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '7b8261a977e4335f9697794ddc1d9d113afa44f7',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
